@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2b2e64&height=300&section=header&text=Joohyun%20lab&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2b2e64&height=300&section=header&text=Joohyun%20lab&fontSize=70&animation=fadeIn)
 
 <br>
 <br>
