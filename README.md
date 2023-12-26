@@ -2,6 +2,8 @@
 
 <br>
 <br>
+<h3 align="center"> 대다수의 코드는 Private로 전환하였습니다. </h3>
+<br>
 <h3 align="center">💻 Learning 💻</h3>
 <br>
 <p align="center">
