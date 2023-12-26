@@ -59,7 +59,7 @@
   <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11554897"><img src="https://img.shields.io/badge/Paper 4-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p>
 <br>
-<h3 align="center"> 🛠 Othrer Paper 🛠 </h3>
+<h3 align="center"> 🛠 Other Paper 🛠 </h3>
 <p align="center">
   <a href="https://drive.google.com/file/d/1DMCPntPMabx53P_wFv7l2p0aIriW_b7e/view?usp=drive_link"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p> 
