@@ -45,7 +45,7 @@
   <a href="https://www.mdpi.com/2071-1050/15/8/6951"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p>
 <br>
-<h3 align="center"> 🔥 Conference Paper 🔥 </h3>
+<h3 align="center"> 🔥 Korea Conference Paper 🔥 </h3>
 <p align="center">
   <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11197385"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p>
