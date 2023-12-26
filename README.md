@@ -63,5 +63,8 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/1DMCPntPMabx53P_wFv7l2p0aIriW_b7e/view?usp=drive_link"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p> 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1n8b7jUkBh53TRZ-8oywzhyR-1C9dgOqR/view?usp=sharing"><img src="https://img.shields.io/badge/Paper 2-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
+</p> 
 <br>
 
