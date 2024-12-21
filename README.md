@@ -8,7 +8,7 @@
 > - **Big Data finance analytics**
 > - **Algorithmic trading system development**
 > - **Multi-modal learning**
-> - **Computer vision stock tradingn**
+> - **Computer vision stock trading**
 > 
 > **📃[Papers]**
 >> *International Journal*
